@@ -37,7 +37,7 @@ project/
 │   └── Raisin_Dataset.xlsx
 │
 ├── notebooks/              # Jupyter notebooks
-│   └── 233307030_UAS_DATA SCIENCE_RAISIN DATASET.ipynb # Contoh nama notebook ini
+│   └── Project_UAS.ipynb
 │
 ├── src/                    # Source code
 │   ├── load_data.py
