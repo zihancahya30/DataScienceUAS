@@ -373,7 +373,7 @@ Berikut adalah daftar potensi pekerjaan di masa mendatang dalam format checklist
 ## 10. REPRODUCIBILITY (WAJIB)
 ### 10.1 GitHub Repository
 
-Link Repository: (https://github.com/zihancahya30/UAS_DATA-SCIENCE_2025.git)
+Link Repository: (https://github.com/zihancahya30/DataScienceUAS.git)
 Repository harus berisi:
 
 - [x] Notebook Jupyter/Colab dengan hasil running
