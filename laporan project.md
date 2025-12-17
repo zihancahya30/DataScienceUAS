@@ -16,7 +16,7 @@ Tahun Akademik: 2025 / 5
 
 Link GitHub Repository: (https://github.com/zihancahya30/DataScienceUAS.git)
 
-Link Video Pembahasan: (BELUM)
+Link Video Pembahasan: (https://drive.google.com/file/d/13FIcy9VjhIE-YsPdKTnOs5bPxstMn77e/view?usp=sharing)
 
 ---
 ## 1. LEARNING OUTCOMES
