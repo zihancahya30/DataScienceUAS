@@ -381,7 +381,7 @@ Repository harus berisi:
 - [x] `requirements.txt` atau `environment.yml`
 - [x] `README.md` yang informatif
 - [x] Folder structure yang terorganisir
-- [x] `.gitignore` (jangan upload dataset besar)
+- [ ] `.gitignore` (jangan upload dataset besar)
 
 ### 10.2 Environment & Dependencies
 
