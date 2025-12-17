@@ -35,21 +35,13 @@ Pada proyek ini, mahasiswa diharapkan dapat:
 ---
 ## 2. PROJECT OVERVIEW
 ### 2.1 Latar Belakang
-**Isi bagian ini dengan:**
-- Mengapa proyek ini penting?
-- Permasalahan umum pada domain terkait (misal: kesehatan, pendidikan, keuangan, pertanian, NLP, computer vision, dll.)
-- Manfaat proyek untuk pengguna, bisnis, atau penelitian
-- Studi literatur atau referensi ilmiah (minimal 1–2 sumber wajib)
-**Contoh referensi (berformat APA/IEEE):**
-> Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
-**[Jelaskan konteks dan latar belakang proyek]**
-Pertanian dan industri makanan memerlukan identifikasi akurat varietas buah kering seperti kismis untuk menjaga kualitas, harga, dan pemrosesan. Klasifikasi manual rentan kesalahan dan memakan waktu. Machine learning dan deep learning dapat mengotomatisasi proses ini menggunakan fitur geometris dari citra.
+Sektor pertanian dan industri makanan sangat bergantung pada kualitas produk untuk daya saing pasar. Dalam konteks produk pertanian olahan seperti kismis, identifikasi varietas secara akurat menjadi krusial untuk standardisasi kualitas, penentuan harga, dan efisiensi proses produksi. Secara tradisional, klasifikasi varietas kismis, seperti Besni dan Kecimen, seringkali dilakukan secara manual oleh tenaga ahli. Namun, metode ini rentan terhadap kesalahan manusia, tidak konsisten, dan sangat memakan waktu, terutama dalam skala produksi besar.
 
-Penelitian menunjukkan bahwa model neural network dapat mencapai akurasi tinggi dalam klasifikasi varietas kismis. Studi "Deep Learning Model for Raisin Grains Classification" menggunakan CNN untuk klasifikasi dengan performa superior dibandingkan metode tradisional.
+Pemanfaatan teknologi Machine Learning (ML) dan Deep Learning (DL) menawarkan solusi inovatif untuk mengatasi tantangan ini. Dengan menganalisis fitur-fitur geometris dan morfologi dari citra kismis, sistem otomatis dapat dikembangkan untuk mengidentifikasi varietas dengan cepat dan akurat. Pendekatan ini dapat meminimalisir bias, meningkatkan efisiensi operasional, dan memastikan kualitas produk yang lebih konsisten di pasar.
 
-Selain itu, "Classification of raisin grains variety using some machine learning methods" menunjukkan bahwa algoritma seperti Random Forest dan Logistic Regression efektif untuk data geometris kismis.
+Beberapa studi ilmiah telah menunjukkan potensi besar ML dan DL dalam klasifikasi varietas kismis. Penelitian oleh Ramadhan, A. J., et al. (2023) dalam "*Deep Learning Model for Raisin Grains Classification*" berhasil menunjukkan bahwa model Deep Learning berbasis Convolutional Neural Network (CNN) dapat mencapai akurasi yang superior dibandingkan metode tradisional dalam klasifikasi kismis. Studi lain oleh Ramadhan, A. J., et al. (2023) juga menegaskan efektivitas algoritma Machine Learning klasik seperti Random Forest dan Logistic Regression untuk data geometris kismis.
 
-Dataset Raisin dari UCI menyediakan fitur morfologi untuk eksperimen klasifikasi Besni dan Kecimen.
+Proyek ini memanfaatkan *Raisin Dataset* dari UCI Machine Learning Repository yang menyediakan fitur-fitur morfologi terukur dari dua varietas kismis (Besni dan Kecimen). Dengan menerapkan dan membandingkan model-model ML (Logistic Regression, Random Forest) dan DL (Multilayer Perceptron), proyek ini bertujuan untuk membangun sistem klasifikasi yang robust, efisien, dan akurat. Hasil dari proyek ini diharapkan tidak hanya memberikan kontribusi pada pengembangan metodologi klasifikasi pertanian berbasis AI, tetapi juga dapat menjadi landasan bagi implementasi solusi praktis di industri pengolahan kismis.
 
 **Referensi Ilmiah:**
 > Ramadhan, A. J., Al-Jumaili, S. A. A., & Ali, A. H. (2023). *Deep Learning Model for Raisin Grains Classification*. Journal of Theoretical and Applied Information Technology, 101(21). [Open Access Link](http://www.jatit.org/volumes/Vol101No21/31Vol101No21.pdf)
