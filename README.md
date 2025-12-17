@@ -5,7 +5,7 @@
 ## 👤 Informasi
 - **Nama:** [Zihan Cahya Amelia]
 - **Repo:** [https://github.com/zihancahya30/DataScienceUAS.git]
-- **Video:** [Link Video Presentasi/Demo]
+- **Video:** [https://drive.google.com/file/d/13FIcy9VjhIE-YsPdKTnOs5bPxstMn77e/view?usp=sharing]
 
 ---
 
