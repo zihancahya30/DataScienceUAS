@@ -103,13 +103,13 @@ Multilayer Perceptron (MLP) untuk data tabular. Alasan: Mampu belajar fitur komp
 - **Data Quality Issues:** Baik
 ### 4.4 Exploratory Data Analysis (EDA) - (**OPSIONAL**)
 #### Visualisasi 1: Class Distribution
-![Class Distribution](/content/images/class_distribution.png)
+![Class Distribution](/images/class_distribution.png)
 **Insight:** Kelas seimbang 50:50.
 #### Visualisasi 2: Feature Correlation Heatmap
-![Correlation Heatmap](/content/images/correlation_heatmap.png)
+![Correlation Heatmap](/images/correlation_heatmap.png)
 **Insight:** Korelasi tinggi antar fitur ukuran.
 #### Visualisasi 3: Numerical Feature Distribution
-![Histogram](/content/images/numerical_feature_distribution.png)
+![Histogram](/images/numerical_feature_distribution.png)
 **Insight:** Distribusi normal dengan sedikit skew.
 ---
 ## 5. DATA PREPARATION
@@ -237,7 +237,7 @@ Training Time: ~1 menit
 Computational Resource: Google Colab CPU
 Training History Visualization:
 
-![Training History](/content/images/history_loss_accuracy.png)
+![Training History](/images/history_loss_accuracy.png)
 
 Analisis Training: Tidak overfitting, converge baik.
 
@@ -263,7 +263,7 @@ Recall: 0.8889
 F1-Score: 0.8885
 Confusion Matrix / Visualization:
 
-![Confusion Matrix Logistic Regression](/content/images/confusion_matrix_logistic_regression.png)
+![Confusion Matrix Logistic Regression](/images/confusion_matrix_logistic_regression.png)
 
 #### 7.2.2 Model 2 (Advanced/ML)
 
@@ -278,11 +278,11 @@ Recall: 0.8556
 F1-Score: 0.8541
 Confusion Matrix / Visualization:
 
-![Confusion Matrix Random Forest](/content/images/confusion_matrix_random_forest.png)
+![Confusion Matrix Random Forest](/images/confusion_matrix_random_forest.png)
 
 Feature Importance (jika applicable):
 
-![Feature Importance](/content/images/feature_importance.png)
+![Feature Importance](/images/feature_importance.png)
 
 #### 7.2.3 Model 3 (Deep Learning)
 
@@ -297,7 +297,7 @@ Recall: 0.8778
 F1-Score: 0.8772
 Confusion Matrix / Visualization:
 
-![Confusion Matrix Deep Learning](/content/images/confusion_matrix_deep_learning.png)
+![Confusion Matrix Deep Learning](/images/confusion_matrix_deep_learning.png)
 
 Training History:
 [Sudah diinsert di Section 6.3.6]
@@ -313,7 +313,7 @@ Tabel Perbandingan:
 | Deep Learning (Model 3) | 0.8778 | 0.8846 | 0.8778 | 0.8772 | 60s | 0.1s |
 Visualisasi Perbandingan:
 
-![Model Performance Comparison](/content/images/model_performance_comparison.png)
+![Model Performance Comparison](/images/model_performance_comparison.png)
 
 ### 7.4 Analisis Hasil
 
